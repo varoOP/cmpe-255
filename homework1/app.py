@@ -22,7 +22,7 @@ st.markdown("""
 - **Name:** Rohit Vardam
 - **SJSU ID:** 017437433
 - **Original Dataset:** bigquery-public-data.medicare.outpatient_charges_2014
-- **Source Code:** [GitHub Repository](https://github.com/varoOP/cmpe-255/tree/main/homework1)
+- **Source Code of Streamlit App:** [GitHub Repository](https://github.com/varoOP/cmpe-255/tree/main/homework1)
 """)
 
 st.header('Data Visualization')
